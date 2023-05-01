@@ -9,6 +9,3 @@ Using machine learning and digital signal processing techniques, we created a pi
 - Implementation of supervised learning algorithms for music genre classification.
 
 - Implementation of unsupervised learning algorithms for the analysis of musical groups, in order to find similarities between them. 
-
-
-Translated with www.DeepL.com/Translator (free version)
